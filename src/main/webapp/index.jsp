@@ -16,19 +16,19 @@
 
 <p>
 <a href="download?action=checkUser&amp;productCode=8601">
-    86 (the band) - True Life Songs and Pictures
+    Glass Horizon - Reflections
 </a><br>
 
 <a href="download?action=checkUser&amp;productCode=pf01">
-    Paddlefoot - The First CD
+    Velvet Circuit - Electric Dreams
 </a><br>
 
 <a href="download?action=checkUser&amp;productCode=pf02">
-    Paddlefoot - The Second CD
+    Indigo Lights - Nightfall
 </a><br>
 
 <a href="download?action=checkUser&amp;productCode=jr01">
-    Joe Rut - Genuine Wood Grained Finish
+    Neon Foxes - Midnight Echoes
 </a>
 </p>
 
